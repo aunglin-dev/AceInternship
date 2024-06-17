@@ -20,7 +20,6 @@ namespace AceInternship.RestApi.Controllers
             Password = "123456",
             DataSource = "LAPTOP-P3IDALMC",
 
-
         }; 
         [HttpGet]
         public IActionResult GetBlogs()

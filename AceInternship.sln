@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{6E
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceInternship.MinKapayWebApi", "AceInternship.MinKapayWebApi\AceInternship.MinKapayWebApi.csproj", "{14B0C855-0B96-4F5C-AD5E-78E3A676C9CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{998D1866-D7A8-4E12-8AB5-DE1C19657730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{998D1866-D7A8-4E12-8AB5-DE1C19657730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{998D1866-D7A8-4E12-8AB5-DE1C19657730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B0C855-0B96-4F5C-AD5E-78E3A676C9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B0C855-0B96-4F5C-AD5E-78E3A676C9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B0C855-0B96-4F5C-AD5E-78E3A676C9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B0C855-0B96-4F5C-AD5E-78E3A676C9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
